@@ -7,7 +7,7 @@
  
  •🌱 Busco me aperfeiçoar na área de FrontEnd!
  
- ##
+ ###
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1099&pause=1099&color=70279C&width=500&height=80&lines=Seja+bem+vindo+ao+meu+GitHub+(%3A" alt="Typing SVG" /></a>
 
@@ -24,7 +24,7 @@
   <src="https://discord.com/channels/@me/880972602355613716/1065701852601131028"
 </div>
 
-##
+###
 
 <div> 
    <a href="https://www.instagram.com/sabrina__rodri18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
