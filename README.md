@@ -2,6 +2,8 @@
 
 
  • 📚 Cursando Sistemas para internet na FATEC
+
+ 
  •🌱 Atualmente estou estudando Linguagens de programação.
  
 
