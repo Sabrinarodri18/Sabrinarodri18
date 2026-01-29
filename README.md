@@ -4,7 +4,7 @@
  • 📚 Cursando Sistemas para internet na FATEC
 
  
- •🌱 Atualmente estou estudando Linguagens de programação e UX design.
+ •🌱 Atualmente estou estudando Linguagens de programação como JS, node js, e python.
  
 
  ##
