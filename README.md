@@ -21,6 +21,7 @@
   <img align="center" alt="Sabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sabri-Photo"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Sabri-react"  height="30" width="40" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" align="center" alt="React Brasil Logo" />
+  <img align="center" alt="Sabri-react"  height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmtyerOsIHJ4qF84e6tKiRtq3FmpJsa06Wg&s" align="center" alt="Cypress logo" />
   <src="https://discord.com/channels/@me/880972602355613716/1065701852601131028"
 </div>
 
