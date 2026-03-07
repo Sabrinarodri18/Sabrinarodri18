@@ -1,10 +1,10 @@
 # 🌟 Olá eu sou a  Sabrina 
 
 
- • 📚 Cursando Sistemas para internet na FATEC
+ • 📚 Formada em Sistemas para internet na FATEC
 
  
- •🌱 Atualmente estou estudando Linguagens de programação como JS, node js, e python.
+ •🌱 Me aperfeiçoando em automação de testes (QA)
  
 
  ##
