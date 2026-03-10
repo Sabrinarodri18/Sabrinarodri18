@@ -4,8 +4,7 @@
  • 📚 Formada em Sistemas para internet pela FATEC
 
  
- •🌱 Desenvolvedora junior
-  Me aperfeiçoando em automação de testes (QA)
+ •🌱 Desenvolvedora junior, me aperfeiçoando em automação de testes (QA)
  
 
  ##
