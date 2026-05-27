@@ -1,4 +1,4 @@
-#                                                                      Google (Noto Color Emoji 17.0) Olá, eu sou a Sabrina 
+#                                                 👩🏾‍💻 Olá, eu sou a Sabrina 
 
 
  • 📚 Formada em Sistemas para internet pela FATEC
