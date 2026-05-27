@@ -4,7 +4,7 @@
  • 📚 Formada em Sistemas para internet pela FATEC
 
  
- •🌱 Desenvolvedora FullStackjunior, e analista de testes.
+ •🌱 Desenvolvedora FullStack junior, e analista de testes.
  
 
  ##
